@@ -2,10 +2,10 @@
 env builded by trstndbrtl with http://revuesdecode.com
 
 #### <a id="sommaire">Sommaire</a>
-[Prerequisites](#prerequis)
-[Provision](#provision)
-[Mysql credentials](#mysql)
-[Adminer connexion](#adminer)
+- [Prerequisites](#prerequis)
+- [Provision](#provision)
+- [Mysql credentials](#mysql)
+- [Adminer connexion](#adminer)
 
 ## <a id="prerequis">Prerequisites</a>
 - virtualbox >= 5.2
